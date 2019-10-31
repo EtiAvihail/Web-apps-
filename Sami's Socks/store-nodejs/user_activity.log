@@ -1,0 +1,241 @@
+15:39:46.692 INFO  : added quantity of item 2 
+15:39:47.730 INFO  : removed item 2 
+15:40:41.901 INFO  admin: Login 
+15:40:46.887 INFO  admin: added quantity of item 2 
+15:40:47.406 INFO  admin: removed item 2 
+15:43:40.689 INFO  undefined: added quantity of item 2 
+15:43:41.941 INFO  undefined: removed item 2 
+15:44:02.928 INFO  undefined: added quantity of item 2 
+15:44:04.166 INFO  undefined: removed item 2 
+15:46:07.878 INFO  admin: Login 
+15:46:20.697 INFO  admin: added quantity of item 2 
+15:46:21.779 INFO  admin: removed item 2 
+15:47:25.192 INFO  admin: added quantity of item 1 
+15:47:25.338 INFO  admin: added quantity of item 1 
+15:47:25.501 INFO  admin: added quantity of item 1 
+15:47:27.458 INFO  admin: removed item 1 
+15:53:24.091 INFO  admin: Login 
+15:53:25.870 INFO  admin: added item 2 to cart 
+15:53:25.874 INFO  admin: added item Adidas to cart 
+15:53:41.609 INFO  admin: added item 2 to cart 
+15:53:41.610 INFO  admin: added item Adidas to cart 
+15:53:41.749 INFO  admin: added item 2 to cart 
+15:53:41.750 INFO  admin: added item Adidas to cart 
+15:53:41.896 INFO  admin: added item 2 to cart 
+15:53:41.897 INFO  admin: added item Adidas to cart 
+15:53:51.350 INFO  admin: substracted quantity of item 2 
+15:53:51.510 INFO  admin: substracted quantity of item 2 
+15:53:52.118 INFO  admin: added quantity of item 2 
+15:53:52.297 INFO  admin: added quantity of item 2 
+15:53:52.905 INFO  admin: removed item 2 
+15:53:52.907 INFO  admin: removed item Adidas to cart 
+15:55:43.813 INFO  admin: added item Winter body to cart 
+15:55:48.392 INFO  admin: added quantity of Winter body 
+15:55:48.682 INFO  admin: added quantity of Winter body 
+15:55:48.836 INFO  admin: added quantity of Winter body 
+15:55:49.326 INFO  admin: substracted quantity of Winter body 
+15:55:49.487 INFO  admin: substracted quantity of Winter body 
+15:55:50.142 INFO  admin: removed item Winter body from cart 
+20:27:20.433 INFO  admin: Login 
+20:30:04.145 INFO  admin: Login 
+20:31:25.587 INFO  admin: Login 
+20:33:30.161 INFO  admin: Login 
+20:35:07.788 INFO  admin: Login 
+20:39:19.871 INFO  admin: Login 
+20:41:18.325 INFO  admin: Login 
+20:41:50.340 INFO  admin: Login 
+20:43:18.968 INFO  admin: Login 
+20:54:49.226 INFO  admin: Login 
+21:05:55.004 INFO  admin: Login 
+21:11:18.109 INFO  admin: Login 
+21:19:07.469 INFO  admin: Login 
+21:24:50.886 INFO  admin: Login 
+21:26:46.314 INFO  admin: Login 
+21:30:26.392 INFO  admin: Login 
+21:31:26.909 INFO  admin: Login 
+21:34:36.118 INFO  admin: Login 
+21:41:46.279 INFO  admin: Login 
+21:59:09.132 INFO  admin: Login 
+22:04:18.164 INFO  admin: Login 
+22:21:24.979 INFO  admin: Login 
+22:26:33.508 INFO  admin: Login 
+22:37:59.866 INFO  admin: Login 
+22:41:18.096 INFO  admin: added item Cherry Socks to cart 
+22:41:19.176 INFO  admin: added item Big Dot Socks to cart 
+22:41:22.233 INFO  admin: added quantity of Cherry Socks 
+22:41:22.356 INFO  admin: added quantity of Cherry Socks 
+23:04:46.765 INFO  admin: Login 
+23:15:08.054 INFO  admin: Login 
+23:20:40.562 INFO  admin: Login 
+23:26:16.872 INFO  admin: Login 
+23:57:30.344 INFO  admin: Login 
+23:58:50.548 INFO  undefined: register 
+00:10:26.231 INFO  a: register 
+00:10:30.097 INFO  a: Login 
+00:11:50.645 INFO  a: added item Cherry Socks to cart 
+00:11:54.766 INFO  a: added quantity of Cherry Socks 
+00:11:55.033 INFO  a: added quantity of Cherry Socks 
+00:11:56.415 INFO  a: added shipping 
+00:11:59.182 INFO  a: substracted shipping 
+00:11:59.902 INFO  a: added shipping 
+00:23:03.061 INFO  a: Login 
+00:28:13.515 INFO  a: Login 
+00:33:17.020 INFO  a: Login 
+00:39:19.127 INFO  admin: Login 
+00:58:04.084 INFO  a: Login 
+00:58:09.079 INFO  a: added shipping 
+00:59:26.521 INFO  a: added shipping 
+01:00:27.125 INFO  a: added item Cherry Socks to cart 
+01:00:27.302 INFO  a: added item Cherry Socks to cart 
+01:00:38.988 INFO  a: added shipping 
+01:04:35.507 INFO  a: Login 
+01:04:42.481 INFO  a: added item Cherry Socks to cart 
+01:04:42.652 INFO  a: added item Cherry Socks to cart 
+01:06:00.920 INFO  a: added item Cherry Socks to cart 
+01:06:03.052 INFO  a: added item Dice Socks to cart 
+01:06:04.266 INFO  a: added item Big Dot Socks to cart 
+01:06:09.506 INFO  a: added shipping 
+01:06:24.359 INFO  a: removed item Big Dot Socks from cart 
+01:07:15.205 INFO  a: added item Cherry Socks to cart 
+01:07:16.023 INFO  a: added item Big Dot Socks to cart 
+01:07:17.241 INFO  a: added item City Jazz Socks to cart 
+01:07:32.817 INFO  a: added shipping 
+22:05:42.138 INFO  admin: Login 
+22:05:47.753 INFO  admin: added item Big Dot Socks to cart 
+22:05:48.576 INFO  admin: added item Cherry Socks to cart 
+22:05:58.446 INFO  admin: added shipping 
+22:07:20.138 INFO  admin: added item Big Dot Socks to cart 
+22:07:21.459 INFO  admin: added item Cherry Socks to cart 
+22:07:24.899 INFO  admin: added quantity of Cherry Socks 
+22:07:25.169 INFO  admin: added quantity of Cherry Socks 
+22:07:26.382 INFO  admin: added shipping 
+22:08:12.664 INFO  admin: added shipping 
+22:10:18.840 INFO  admin: added shipping 
+22:10:19.532 INFO  admin: substracted shipping 
+22:10:43.375 INFO  admin: added shipping 
+22:11:05.556 INFO  admin: Login 
+22:11:14.151 INFO  admin: added shipping 
+22:13:59.685 INFO  admin: added shipping 
+22:14:00.876 INFO  admin: substracted shipping 
+22:14:28.306 INFO  admin: added shipping 
+22:14:29.619 INFO  admin: substracted shipping 
+22:14:37.070 INFO  admin: added item Cherry Socks to cart 
+22:14:40.957 INFO  admin: added shipping 
+22:14:42.141 INFO  admin: substracted quantity of Cherry Socks 
+22:14:52.965 INFO  admin: added item Cherry Socks to cart 
+22:15:11.975 INFO  admin: added shipping 
+22:15:15.634 INFO  admin: added item Cherry Socks to cart 
+22:15:18.432 INFO  admin: added shipping 
+22:15:21.325 INFO  admin: substracted shipping 
+22:15:23.486 INFO  admin: removed item Cherry Socks from cart 
+22:15:31.875 INFO  admin: added item Cherry Socks to cart 
+22:15:32.414 INFO  admin: added item Cherry Socks to cart 
+22:15:32.569 INFO  admin: added item Cherry Socks to cart 
+22:17:43.155 INFO  admin: Login 
+22:17:46.226 INFO  admin: added item Cherry Socks to cart 
+22:17:46.367 INFO  admin: added item Cherry Socks to cart 
+22:17:50.450 INFO  admin: added shipping 
+22:19:45.639 INFO  admin: added shipping 
+22:19:46.209 INFO  admin: substracted shipping 
+22:19:50.350 INFO  admin: added item Cherry Socks to cart 
+22:19:50.498 INFO  admin: added item Cherry Socks to cart 
+22:19:53.599 INFO  admin: added shipping 
+22:20:26.343 INFO  admin: added item Cherry Socks to cart 
+22:20:26.486 INFO  admin: added item Cherry Socks to cart 
+22:20:29.045 INFO  admin: added shipping 
+22:21:02.051 INFO  admin: added item Cherry Socks to cart 
+22:21:02.205 INFO  admin: added item Cherry Socks to cart 
+22:21:04.962 INFO  admin: added shipping 
+22:21:41.824 INFO  admin: added item Cherry Socks to cart 
+22:21:42.124 INFO  admin: added item Cherry Socks to cart 
+22:21:44.595 INFO  admin: added shipping 
+22:22:01.767 INFO  admin: removed item Cherry Socks from cart 
+22:25:02.833 INFO  yosi: register 
+22:25:05.223 INFO  yosi: Login 
+22:25:07.215 INFO  yosi: added item Cherry Socks to cart 
+22:25:07.378 INFO  yosi: added item Cherry Socks to cart 
+22:25:07.541 INFO  yosi: added item Cherry Socks to cart 
+22:25:13.116 INFO  yosi: has successfully ordered his items 
+22:25:27.390 INFO  admin: Login 
+22:36:19.657 INFO  admin: Login 
+22:36:50.605 INFO  a: register 
+22:36:58.382 INFO  a: Login 
+22:45:13.078 INFO  admin: Login 
+22:45:24.152 INFO  admin: Login 
+09:52:31.956 INFO  admin: Login 
+09:53:42.524 INFO  admin: added item Hamburger Socks to cart 
+09:53:47.043 INFO  admin: added item Cherry Socks to cart 
+09:53:53.252 INFO  admin: added quantity of Hamburger Socks 
+09:53:56.935 INFO  admin: added quantity of Cherry Socks 
+09:53:58.453 INFO  admin: added quantity of Cherry Socks 
+09:53:59.001 INFO  admin: added quantity of Cherry Socks 
+09:53:59.413 INFO  admin: added quantity of Cherry Socks 
+09:53:59.815 INFO  admin: added quantity of Cherry Socks 
+09:54:01.438 INFO  admin: removed item Cherry Socks from cart 
+09:54:02.670 INFO  admin: added quantity of Hamburger Socks 
+09:54:02.848 INFO  admin: added quantity of Hamburger Socks 
+09:54:03.010 INFO  admin: added quantity of Hamburger Socks 
+09:54:03.175 INFO  admin: added quantity of Hamburger Socks 
+09:54:05.375 INFO  admin: added shipping 
+09:54:19.183 INFO  admin: has successfully ordered his items 
+09:55:09.975 INFO  function getCurrentUser() {
+    return this.currentUser;
+  }: has generated an inspirational quote 
+09:55:15.180 INFO  function getCurrentUser() {
+    return this.currentUser;
+  }: has generated an inspirational quote 
+09:55:20.301 INFO  function getCurrentUser() {
+    return this.currentUser;
+  }: has generated an inspirational quote 
+09:55:29.994 INFO  function getCurrentUser() {
+    return this.currentUser;
+  }: has generated an inspirational quote 
+09:55:33.618 INFO  function getCurrentUser() {
+    return this.currentUser;
+  }: has generated an inspirational quote 
+09:55:34.609 INFO  function getCurrentUser() {
+    return this.currentUser;
+  }: has generated an inspirational quote 
+09:55:37.164 INFO  function getCurrentUser() {
+    return this.currentUser;
+  }: has generated an inspirational quote 
+09:56:37.794 INFO  eti: register 
+09:56:44.031 INFO  eti: Login 
+09:57:24.166 INFO  eti: added item Cherry Socks to cart 
+23:22:11.603 INFO  admin: Login 
+23:22:41.367 INFO  admin: Login 
+23:40:17.589 INFO  admin: Login 
+23:41:02.940 INFO  admin: Login 
+23:41:43.091 INFO  admin: Login 
+23:42:03.673 INFO  admin: Login 
+23:44:16.125 INFO  admin: Login 
+23:44:31.159 INFO  admin: Login 
+23:46:29.284 INFO  admin: Login 
+23:46:43.040 INFO  admin: Login 
+23:48:25.446 INFO  admin: Login 
+23:51:47.381 INFO  admin: Login 
+23:52:54.632 INFO  admin: Login 
+23:54:06.907 INFO  admin: Login 
+23:55:33.172 INFO  admin: Login 
+23:56:16.502 INFO  admin: Login 
+23:57:15.982 INFO  admin: Login 
+23:57:44.385 INFO  admin: Login 
+23:59:27.099 INFO  admin: Login 
+23:59:46.294 INFO  aaaaaaaaaa: register 
+00:01:21.752 INFO  admin: Login 
+00:02:02.214 INFO  admin: Login 
+00:02:10.120 INFO  function getCurrentUser() {
+    return this.currentUser;
+  }: has generated an inspirational quote 
+00:02:10.915 INFO  function getCurrentUser() {
+    return this.currentUser;
+  }: has generated an inspirational quote 
+00:02:11.071 INFO  function getCurrentUser() {
+    return this.currentUser;
+  }: has generated an inspirational quote 
+00:02:18.708 INFO  admin: added item Cherry Socks to cart 
+00:02:18.856 INFO  admin: added item Cherry Socks to cart 
+00:02:23.217 INFO  admin: added item Hamburger Socks to cart 
+00:02:26.602 INFO  admin: added quantity of Hamburger Socks 
+00:02:28.105 INFO  admin: added shipping 
+00:02:37.608 INFO  admin: has successfully ordered his items 
